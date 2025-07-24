@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1679062330 source:/media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1679064184 .h"
+
+1679064184 /media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/phonebook.h
+
+1679064184 source:/media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+
+1679062330 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p5_2223\p5_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1679064184 c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p5_2223\p5_2\phonebook.h
+
+1679064184 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p5_2223\p5_2\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+
+1679062330 source:/media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1679064184 /media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/phonebook.h
+
+1679064184 source:/media/sf_Programacao/Praticas/Solucoes/P5_2223/P5_2/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+

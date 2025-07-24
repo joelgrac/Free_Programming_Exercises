@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1549037054 source:/home/student/Desktop/PROG1718/P3_1617/P3_2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1552855890 
+
+1708730009 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p3_2324\p3_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<unistd.h>
+
+1678463538 source:/media/sf_Programacao/Praticas/Solucoes/P3_2223/P3_3/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1709305174 source:/media/sf_Programacao/Praticas/Solucoes/P3_2324/P3_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<unistd.h>
+

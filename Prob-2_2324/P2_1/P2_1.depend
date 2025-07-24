@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1520517162 source:/home/student/Desktop/PROG1718/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1521020316 source:/home/student/Desktop/PROG1718/P2_1718/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1552671373 source:/media/sf_Programacao/Praticas/Solucoes/P2_1819/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616769220 source:/media/sf_Programacao/Praticas/Solucoes/P2_1920/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616779821 source:/media/sf_Programacao/Praticas/Solucoes/P2_2122/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677858034 source:/media/sf_Programacao/Praticas/Solucoes/P2_2223/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1708701990 source:/media/sf_Programacao/Praticas/Solucoes/P2_2324/P2_1/main.c
+	<stdio.h>
+	<stdlib.h>
+

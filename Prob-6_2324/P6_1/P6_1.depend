@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1679494287 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2223\p6_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	"phonebook.h"
+
+1710633610 .h"
+
+1679524631 c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2223\p6_1\phonebook.h
+
+1679523829 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2223\p6_1\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+
+1680280598 source:/media/sf_Programacao/Praticas/Solucoes/P6_2223/P6_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	"phonebook.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	"phonebook.h"
+
+1680271650 /media/sf_Programacao/Praticas/Solucoes/P6_2223/P6_1/phonebook.h
+
+1679993115 source:/media/sf_Programacao/Praticas/Solucoes/P6_2223/P6_1/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"phonebook.h"
+
+1710629845 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2324\p6_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1710629848 c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2324\p6_1\phonebook.h
+
+1710633610 source:c:\users\prbp\prbp\ist\programacao\praticas\solucoes\p6_2324\p6_1\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"phonebook.h"
+
+1711104026 source:/media/sf_Programacao/Praticas/Solucoes/P6_2324/P6_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1711104026 /media/sf_Programacao/Praticas/Solucoes/P6_2324/P6_1/phonebook.h
+
+1710713231 source:/media/sf_Programacao/Praticas/Solucoes/P6_2324/P6_1/phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"phonebook.h"
+

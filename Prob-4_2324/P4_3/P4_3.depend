@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678709209 source:/media/sf_Programacao/Praticas/Solucoes/P4_2223/P4_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709912142 source:/media/sf_Programacao/Praticas/Solucoes/P4_2324/P4_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
